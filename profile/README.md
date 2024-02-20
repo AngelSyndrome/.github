@@ -1,17 +1,11 @@
 ## AngelSyndrome
 
-`waiting for input...`
+Collab organization between [@ZeroAurora](https://github.com/ZeroAurora) and [@BillZhou233](https://github.com/BillZhou233).
+
+> They wish to be angels. They imagine to bring happiness. They want to guard people around them. Yet, they They fail to face the world when they have to discard their wishes.
+> 
+> But they still have such dreams, no matter how the dreams destroy themselves.
+>
+> That's what we call, *the Angel Syndrome*.
 
 Profile picture by [richaball](https://twitter.com/richaball/status/1606306437138784256).
-
-<!--
-## Hi there 👋
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
